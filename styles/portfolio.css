@@ -91,6 +91,12 @@ nav a {
   color: #757575;
 }
 /* Header style */
+/* Main content style */
+main {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+/* Main content style */
 /* About section style */
 .about {
   padding: 130px;
@@ -98,5 +104,17 @@ nav a {
   background-color: #fff8f3;
   margin: 130px 0;
 }
-
+.about-info-container {
+  display: flex;
+  justify-content: space-around;
+}
+.about-info {
+  text-align: center;
+}
+.info-title {
+  font-weight: normal;
+}
+.info-description {
+  font-weight: 700;
+}
 /* About section style */
