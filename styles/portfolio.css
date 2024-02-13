@@ -42,3 +42,15 @@ nav a {
   text-decoration: none;
   color: #474747;
 }
+
+/* Header style */
+.header {
+  background-color: #fff8f3;
+}
+.banner {
+  padding: 30px 30px 30px 150px;
+  display: flex;
+}
+.banner .profile-picture {
+  width: 500px;
+}
