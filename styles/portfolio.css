@@ -117,4 +117,7 @@ main {
 .info-description {
   font-weight: 700;
 }
+#what-I-do-desc {
+  padding: 30px 150px;
+}
 /* About section style */
